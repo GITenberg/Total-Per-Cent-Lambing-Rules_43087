@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42014'
     url: http://www.gutenberg.org/2009/agents/42014
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43087#Total-Per-Cent-Lambing-Rules
 gutenberg_issued: '2013-07-03'
 gutenberg_type: Text
 identifiers:
